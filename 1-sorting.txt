@@ -1,0 +1,11 @@
+Get 3 numbers N ,Y ,Z
+
+if N is less than Y and also less than Z
+
+Then make N the first number
+
+If Z is less than Y 
+
+Then make Z the second number
+
+Make Y the last number

@@ -1,0 +1,6 @@
+Get a number N
+If N is less than 0, return
+Else if N is greater than 0
+Set N = N*N
+
+Return N
